@@ -107,28 +107,30 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 An Integrated Development Environment (IDE) is a software suite that provides comprehensive tools for coding, debugging, and testing software applications. IDEs enhance developer productivity by integrating essential features such as a code editor, compiler, debugger, syntax highlighting, and code completion in a single interface. They help reduce errors, streamline coding, and improve efficiency.
 
 Importance of IDEs:
-Increases Productivity: Provides built-in tools like auto-completion, debugging, and refactoring to speed up development.
-Simplifies Debugging: Helps identify and fix errors with step-by-step debugging tools.
-Enhances Code Management: Supports multiple programming languages and frameworks, allowing developers to work efficiently.
-Integrates with Other Tools: Connects with Version Control Systems (VCS), databases, and deployment tools.
+1. Increases Productivity: Provides built-in tools like auto-completion, debugging, and refactoring to speed up development.
+2. Simplifies Debugging: Helps identify and fix errors with step-by-step debugging tools.
+3. Enhances Code Management: Supports multiple programming languages and frameworks, allowing developers to work efficiently.
+4. Integrates with Other Tools: Connects with Version Control Systems (VCS), databases, and deployment tools.
+
 Examples of IDEs:
-Visual Studio Code (VS Code): A lightweight, highly customizable IDE with extensive extensions and Git integration.
-JetBrains IntelliJ IDEA: Popular for Java development with intelligent code analysis.
-Eclipse: Used for Java and enterprise applications, supporting multiple plugins.
-PyCharm: Specialized for Python development with debugging and testing features.
+1. Visual Studio Code (VS Code): A lightweight, highly customizable IDE with extensive extensions and Git integration.
+2. JetBrains IntelliJ IDEA: Popular for Java development with intelligent code analysis.
+3. Eclipse: Used for Java and enterprise applications, supporting multiple plugins.
+4. PyCharm: Specialized for Python development with debugging and testing features.
 
 2. Version Control Systems (VCS)
 A Version Control System (VCS) is a tool that tracks changes in code, allowing multiple developers to collaborate efficiently and maintain a history of modifications. VCS prevents conflicts, ensures code integrity, and allows developers to roll back to previous versions if needed.
 
 Importance of VCS:
-Enables Collaboration: Multiple developers can work on the same project without overwriting each other’s code.
-Tracks Code Changes: Maintains a history of modifications, making it easy to revert to a previous version if needed.
-Improves Code Quality: Supports branching and merging, allowing developers to work on new features without affecting the main codebase.
-Enhances Security: Provides backup and recovery options in case of accidental deletions or system failures.
+1. Enables Collaboration: Multiple developers can work on the same project without overwriting each other’s code.
+2. Tracks Code Changes: Maintains a history of modifications, making it easy to revert to a previous version if needed.
+3. Improves Code Quality: Supports branching and merging, allowing developers to work on new features without affecting the main codebase.
+4. Enhances Security: Provides backup and recovery options in case of accidental deletions or system failures.
+
 Examples of VCS:
-Git: The most widely used VCS, often paired with GitHub, GitLab, or Bitbucket for remote repositories.
-Apache Subversion (SVN): A centralized version control system used in enterprise environments.
-Mercurial: A distributed VCS is known for handling large projects efficiently.
+1. Git: The most widely used VCS, often paired with GitHub, GitLab, or Bitbucket for remote repositories.
+2. Apache Subversion (SVN): A centralized version control system used in enterprise environments.
+3. Mercurial: A distributed VCS is known for handling large projects efficiently.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 1. Debugging and Fixing Bugs
